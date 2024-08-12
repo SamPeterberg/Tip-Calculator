@@ -13,7 +13,7 @@ The **Tip Calculator** is a simple web application that helps users quickly calc
 ## Usage
 
 
-1. Open the `index.html` file in your preferred web browser.
+1. Open the https://sampeterberg.github.io/Tip-Calculator/ link in your preferred web browser.
 
 2. Enter the bill amount and select the tip percentage.
 
