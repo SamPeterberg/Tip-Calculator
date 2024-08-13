@@ -6,5 +6,5 @@ function calculate() {
     billValue = billAmount.value;
     tipValue = tip.value;
     total = billValue * (1 + tipValue / 100);
-    output.innerText = total
+    output.innerText = "$ " + Math.floor(total)
 }
